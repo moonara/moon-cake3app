@@ -1,0 +1,244 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2016-10-21 06:33+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/BooksController.php:55;81
+msgid "The book has been saved."
+msgstr ""
+
+#: Controller/BooksController.php:59;85
+msgid "The book could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BooksController.php:104
+msgid "The book has been deleted."
+msgstr ""
+
+#: Controller/BooksController.php:106
+msgid "The book could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PeopleController.php:55;81
+msgid "The person has been saved."
+msgstr ""
+
+#: Controller/PeopleController.php:59;85
+msgid "The person could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PeopleController.php:104
+msgid "The person has been deleted."
+msgstr ""
+
+#: Controller/PeopleController.php:106
+msgid "The person could not be deleted. Please, try again."
+msgstr ""
+
+#: Template/Boards/index.ctp:1
+msgid "board"
+msgstr "board"
+
+#: Template/Boards/index.ctp:2
+msgid "post"
+msgstr "*post*"
+
+#: Template/Boards/index.ctp:8
+msgid "user"
+msgstr "user"
+
+#: Template/Boards/index.ctp:9
+msgid "title"
+msgstr "title"
+
+msgid "{0} post"
+msgstr "{0} post."
+
+#: Template/Books/add.ctp:3
+#: Template/Books/edit.ctp:3
+#: Template/Books/index.ctp:3;14
+#: Template/Books/view.ctp:3
+#: Template/People/add.ctp:3
+#: Template/People/edit.ctp:3
+#: Template/People/index.ctp:3;15
+#: Template/People/view.ctp:3;41
+msgid "Actions"
+msgstr ""
+
+#: Template/Books/add.ctp:4
+#: Template/Books/edit.ctp:10
+#: Template/Books/view.ctp:6
+msgid "List Books"
+msgstr ""
+
+#: Template/Books/add.ctp:10
+msgid "Add Book"
+msgstr ""
+
+#: Template/Books/add.ctp:17
+#: Template/Books/edit.ctp:23
+#: Template/People/add.ctp:19
+#: Template/People/edit.ctp:25
+msgid "Submit"
+msgstr ""
+
+#: Template/Books/edit.ctp:5
+#: Template/Books/index.ctp:25
+#: Template/People/edit.ctp:5
+#: Template/People/index.ctp:25
+#: Template/People/view.ctp:52
+msgid "Delete"
+msgstr ""
+
+#: Template/Books/edit.ctp:7
+#: Template/Books/index.ctp:25
+#: Template/Books/view.ctp:5
+#: Template/People/edit.ctp:7
+#: Template/People/index.ctp:25
+#: Template/People/view.ctp:5;52
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Books/edit.ctp:16
+#: Template/Books/view.ctp:4
+msgid "Edit Book"
+msgstr ""
+
+#: Template/Books/index.ctp:4
+#: Template/Books/view.ctp:7
+msgid "New Book"
+msgstr ""
+
+#: Template/Books/index.ctp:8
+msgid "Books"
+msgstr ""
+
+#: Template/Books/index.ctp:23
+#: Template/People/index.ctp:23
+#: Template/People/view.ctp:50
+msgid "View"
+msgstr ""
+
+#: Template/Books/index.ctp:24
+#: Template/People/index.ctp:24
+#: Template/People/view.ctp:51
+msgid "Edit"
+msgstr ""
+
+#: Template/Books/index.ctp:33
+#: Template/People/index.ctp:33
+msgid "previous"
+msgstr ""
+
+#: Template/Books/index.ctp:35
+#: Template/People/index.ctp:35
+msgid "next"
+msgstr ""
+
+#: Template/Books/view.ctp:5
+msgid "Delete Book"
+msgstr ""
+
+#: Template/Books/view.ctp:14
+#: Template/People/view.ctp:16;37
+msgid "Id"
+msgstr ""
+
+#: Template/Books/view.ctp:18
+msgid "Price"
+msgstr ""
+
+#: Template/Books/view.ctp:23
+#: Template/People/view.ctp:39
+msgid "Title"
+msgstr ""
+
+#: Template/Books/view.ctp:27
+msgid "Author"
+msgstr ""
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr ""
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr ""
+
+#: Template/People/add.ctp:4
+#: Template/People/edit.ctp:10
+#: Template/People/view.ctp:6
+msgid "List People"
+msgstr ""
+
+#: Template/People/add.ctp:5
+#: Template/People/edit.ctp:11
+#: Template/People/index.ctp:5
+#: Template/People/view.ctp:8
+msgid "List Boards"
+msgstr ""
+
+#: Template/People/add.ctp:6
+#: Template/People/edit.ctp:12
+#: Template/People/index.ctp:6
+#: Template/People/view.ctp:9
+msgid "New Board"
+msgstr ""
+
+#: Template/People/add.ctp:12
+msgid "Add Person"
+msgstr ""
+
+#: Template/People/edit.ctp:18
+#: Template/People/view.ctp:4
+msgid "Edit Person"
+msgstr ""
+
+#: Template/People/index.ctp:4
+#: Template/People/view.ctp:7
+msgid "New Person"
+msgstr ""
+
+#: Template/People/index.ctp:10
+msgid "People"
+msgstr ""
+
+#: Template/People/view.ctp:5
+msgid "Delete Person"
+msgstr ""
+
+#: Template/People/view.ctp:21
+msgid "Name"
+msgstr ""
+
+#: Template/People/view.ctp:25
+msgid "Password"
+msgstr ""
+
+#: Template/People/view.ctp:29
+msgid "Comment"
+msgstr ""
+
+#: Template/People/view.ctp:33
+msgid "Related Boards"
+msgstr ""
+
+#: Template/People/view.ctp:38
+msgid "Person Id"
+msgstr ""
+
+#: Template/People/view.ctp:40
+msgid "Content"
+msgstr ""
+

@@ -1,0 +1,15 @@
+#: Board\index.ctp:1
+msgid "board"
+msgstr "miniBoard"
+
+#: Board\index.ctp:2
+msgid "post"
+msgstr "* post now! *"
+
+#: Board\index.ctp:3
+msgid "user"
+msgstr "User name"
+
+#: Board\index.ctp:4
+msgid "title"
+msgstr "Title"

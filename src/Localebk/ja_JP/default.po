@@ -1,0 +1,15 @@
+#: Board\index.ctp:1
+msgid "board"
+msgstr "掲示板"
+
+#: Board\index.ctp:2
+msgid "post"
+msgstr "※投稿する"
+
+#: Board\index.ctp:3
+msgid "user"
+msgstr "投稿者"
+
+#: Board\index.ctp:4
+msgid "title"
+msgstr "タイトル"
